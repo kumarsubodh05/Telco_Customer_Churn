@@ -1,1 +1,1 @@
-# Telco_Customer_Churn
+Built a customer churn prediction model using Python and machine learning to identify customers likely to discontinue services. Conducted data cleaning, exploratory data analysis, and feature engineering, and trained classification models to predict churn. Evaluated model performance using accuracy, precision, recall, and ROC-AUC, and generated insights to support customer retention strategies.# Telco_Customer_Churn
